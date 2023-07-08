@@ -79,6 +79,7 @@ body {
   font-family: 'Sofia Sans Condensed', sans-serif;
   color: #fff;
   background-color: #DE2E54;
+  cursor: pointer;
 }
 
 .button:hover {
