@@ -228,3 +228,8 @@ body {
 .footer__bottom {
   background-color: #222;
 }
+
+.phone-telegram button:hover {
+  background-color: #DE2E54;
+  border: 2px solid #DE2E54;
+}
